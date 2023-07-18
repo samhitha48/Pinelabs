@@ -1,2 +1,3 @@
 this is my 2nd file
-i am modifying it again
+i am modifying it again 
+directly committig
