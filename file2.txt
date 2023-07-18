@@ -1,4 +1,9 @@
 this is my 2nd file
 i am modifying it again 
+<<<<<<< HEAD
 directly committing
 modifying for remote repo
+
+directly committig
+modifying for remote repo - 2
+
